@@ -8,6 +8,7 @@ This is deep learning class lessons.
 
 ## Running The Container
 `sudo docker run -it -p 8008:8008 -p 6006:6006 <container image>`
+
 `sudo docker run -it -p 8008:8008 -p 6006:6006 -v absolute_path:/dl-courses/ <container image>`
 
 
